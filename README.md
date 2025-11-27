@@ -21,19 +21,19 @@ This repo includes **source code**, **UI screens**, and the **final Agile report
 - View upcoming appointments  
 - Cancel or reschedule existing appointments
 
-### ✔ User Interface using Bootstrap  
+###  User Interface using Bootstrap  
 - Clean and responsive UI  
 - Optimised for older users (elderly-friendly UI considerations)
 
-### ✔ EJS View Templates  
+###  EJS View Templates  
 - Dynamic rendering for user actions  
 - Shared components (navbar, forms)
 
-### ✔ Node.js Backend  
+###  Node.js Backend  
 - Express.js routing  
 - Modular structure (`routes/`, `views/`, `scripts/`)
 
-### ✔ Agile Methodology  
+###  Agile Methodology  
 Documented final report includes:  
 - User stories  
 - Sprint planning  
