@@ -16,7 +16,7 @@ This repo includes **source code**, **UI screens**, and the **final Agile report
 
 ## 🚀 Features
 
-### ✔ Appointment Management  
+###  Appointment Management  
 - Book appointments  
 - View upcoming appointments  
 - Cancel or reschedule existing appointments
